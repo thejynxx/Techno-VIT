@@ -1,0 +1,1001 @@
+Food_ID,Food_Type,Meal_Time,Time_Since_Prep_Hours,Storage_Info,Max_Safe_Time_Hours (MST),Predicted_Remaining_Safe_Time_Hours,Spoil_Probability_Next_X_Hours,Probability_Spoil_in_Next_12_Hours
+F015,Chicken Chettinad,Lunch,2.5,Room Temp,3.5,1.0,0.714,0.917
+F026,Aloo Gobi,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F029,Shahi Paneer,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F066,Milk,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F038,Mutton Biryani (North Style),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F004,Upma,Lunch,2.1,Room Temp,6.7,4.6,0.313,0.617
+F016,Meen Kuzhambu (Fish Curry),Lunch,9.9,Refrigerated,36.0,26.1,0.275,0.0
+F036,Tandoori Chicken (Half),Dinner,3.8,Room Temp,8.0,4.2,0.475,0.65
+F011,Avial,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F026,Aloo Gobi,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F024,Dal Makhani,Lunch,5.2,Refrigerated,60.0,54.8,0.087,0.0
+F027,Rajma Chawal,Dinner,2.2,Room Temp,6.0,3.8,0.367,0.683
+F018,Mutton Sukka,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F050,Fish Fillet,Lunch,3.0,Refrigerated,12.0,9.0,0.25,0.25
+F006,Pongal,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F010,Sambar Rice,Dinner,8.6,Refrigerated,70.0,61.4,0.123,0.0
+F009,Curd Rice,Lunch,6.3,Refrigerated,67.0,60.7,0.094,0.0
+F023,Paneer Butter Masala,Dinner,3.5,Room Temp,8.0,4.5,0.438,0.625
+F033,Mix Vegetable Curry,Dinner,3.5,Refrigerated,58.0,54.5,0.06,0.0
+F019,Chicken Biryani (South Style),Lunch,3.4,Refrigerated,64.0,60.6,0.053,0.0
+F008,Lemon Rice,Dinner,2.5,Refrigerated,48.0,45.5,0.052,0.0
+F065,Curd/Yogurt,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F009,Curd Rice,Lunch,7.9,Refrigerated,67.0,59.1,0.118,0.0
+F039,Keema Matar,Lunch,4.1,Refrigerated,65.0,60.9,0.063,0.0
+F003,Masala Dosa,Lunch,1.7,Refrigerated,71.0,69.3,0.024,0.0
+F007,Uttapam,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F013,Appam,Dinner,4.7,Room Temp,8.0,3.3,0.588,0.725
+F008,Lemon Rice,Lunch,2.2,Room Temp,6.2,4.0,0.355,0.667
+F030,Vegetable Biryani (North Style),Lunch,5.3,Refrigerated,57.0,51.7,0.093,0.0
+F015,Chicken Chettinad,Dinner,8.1,Refrigerated,48.0,39.9,0.169,0.0
+F060,Spinach,Dinner,4.7,Refrigerated,72.0,67.3,0.065,0.0
+F050,Fish Fillet,Dinner,8.2,Refrigerated,12.0,3.8,0.683,0.683
+F013,Appam,Dinner,5.0,Room Temp,8.0,3.0,0.625,0.75
+F035,Rogan Josh (Mutton),Lunch,5.5,Refrigerated,55.0,49.5,0.1,0.0
+F000,Plain Rice,Lunch,5.6,Room Temp,6.6,1.0,0.848,0.917
+F035,Rogan Josh (Mutton),Dinner,2.4,Refrigerated,55.0,52.6,0.044,0.0
+F050,Fish Fillet,Lunch,3.7,Refrigerated,12.0,8.3,0.308,0.308
+F066,Milk,Dinner,2.8,Room Temp,5.0,2.2,0.56,0.817
+F001,Idli (2 pcs),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F000,Plain Rice,Lunch,5.3,Refrigerated,72.0,66.7,0.074,0.0
+F009,Curd Rice,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F001,Idli (2 pcs),Lunch,2.9,Refrigerated,62.0,59.1,0.047,0.0
+F011,Avial,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F055,Tomatoes,Lunch,4.3,Refrigerated,168.0,163.7,0.026,0.0
+F048,Chicken Breast,Lunch,6.1,Refrigerated,24.0,17.9,0.254,0.0
+F027,Rajma Chawal,Dinner,2.5,Refrigerated,53.0,50.5,0.047,0.0
+F016,Meen Kuzhambu (Fish Curry),Lunch,1.5,Room Temp,2.5,1.0,0.6,0.917
+F015,Chicken Chettinad,Dinner,2.9,Room Temp,4.0,1.1,0.725,0.908
+F003,Masala Dosa,Dinner,10.7,Refrigerated,71.0,60.3,0.151,0.0
+F066,Milk,Dinner,7.7,Refrigerated,71.0,63.3,0.108,0.0
+F039,Keema Matar,Lunch,4.3,Room Temp,6.2,1.9,0.694,0.842
+F040,Chicken Curry (Punjabi Style),Dinner,4.0,Refrigerated,50.0,46.0,0.08,0.0
+F001,Idli (2 pcs),Lunch,2.7,Room Temp,4.2,1.5,0.643,0.875
+F055,Tomatoes,Lunch,11.2,Refrigerated,168.0,156.8,0.067,0.0
+F002,Dosa (Plain),Dinner,3.7,Room Temp,7.0,3.3,0.529,0.725
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F034,Butter Chicken,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F039,Keema Matar,Lunch,4.8,Room Temp,5.8,1.0,0.828,0.917
+F009,Curd Rice,Dinner,5.9,Refrigerated,67.0,61.1,0.088,0.0
+F030,Vegetable Biryani (North Style),Lunch,3.2,Refrigerated,57.0,53.8,0.056,0.0
+F011,Avial,Lunch,7.4,Refrigerated,68.0,60.6,0.109,0.0
+F028,Palak Paneer,Dinner,6.4,Room Temp,8.0,1.6,0.8,0.867
+F036,Tandoori Chicken (Half),Dinner,6.8,Room Temp,8.0,1.2,0.85,0.9
+F030,Vegetable Biryani (North Style),Dinner,5.2,Room Temp,7.0,1.8,0.743,0.85
+F037,Chicken Tikka Masala,Lunch,5.6,Refrigerated,56.0,50.4,0.1,0.0
+F000,Plain Rice,Lunch,3.7,Refrigerated,72.0,68.3,0.051,0.0
+F055,Tomatoes,Lunch,2.1,Refrigerated,168.0,165.9,0.012,0.0
+F012,Vegetable Stew,Dinner,6.0,Refrigerated,70.0,64.0,0.086,0.0
+F031,Tandoori Roti (2 pcs),Lunch,2.9,Room Temp,7.0,4.1,0.414,0.658
+F060,Spinach,Lunch,4.8,Refrigerated,72.0,67.2,0.067,0.0
+F026,Aloo Gobi,Lunch,3.6,Refrigerated,63.0,59.4,0.057,0.0
+F032,Naan,Dinner,4.6,Room Temp,7.0,2.4,0.657,0.8
+F016,Meen Kuzhambu (Fish Curry),Dinner,5.3,Refrigerated,36.0,30.7,0.147,0.0
+F001,Idli (2 pcs),Dinner,3.4,Room Temp,5.0,1.6,0.68,0.867
+F015,Chicken Chettinad,Lunch,3.1,Refrigerated,48.0,44.9,0.065,0.0
+F066,Milk,Dinner,12.5,Refrigerated,71.0,58.5,0.176,0.0
+F040,Chicken Curry (Punjabi Style),Lunch,5.8,Refrigerated,50.0,44.2,0.116,0.0
+F016,Meen Kuzhambu (Fish Curry),Dinner,2.0,Room Temp,3.0,1.0,0.667,0.917
+F012,Vegetable Stew,Lunch,2.4,Room Temp,7.0,4.6,0.343,0.617
+F010,Sambar Rice,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F014,Medu Vada,Lunch,2.5,Room Temp,6.7,4.2,0.373,0.65
+F001,Idli (2 pcs),Dinner,12.0,Refrigerated,62.0,50.0,0.194,0.0
+F008,Lemon Rice,Dinner,4.8,Room Temp,7.0,2.2,0.686,0.817
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F039,Keema Matar,Lunch,5.4,Refrigerated,65.0,59.6,0.083,0.0
+F015,Chicken Chettinad,Lunch,2.3,Room Temp,3.3,1.0,0.697,0.917
+F027,Rajma Chawal,Lunch,6.0,Refrigerated,53.0,47.0,0.113,0.0
+F015,Chicken Chettinad,Dinner,3.9,Refrigerated,48.0,44.1,0.081,0.0
+F021,Fish Fry,Dinner,6.7,Room Temp,8.0,1.3,0.838,0.892
+F035,Rogan Josh (Mutton),Dinner,1.8,Refrigerated,55.0,53.2,0.033,0.0
+F025,Chana Masala,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F065,Curd/Yogurt,Lunch,3.2,Room Temp,5.0,1.8,0.64,0.85
+F028,Palak Paneer,Lunch,5.5,Room Temp,6.5,1.0,0.846,0.917
+F040,Chicken Curry (Punjabi Style),Dinner,1.4,Refrigerated,50.0,48.6,0.028,0.0
+F060,Spinach,Lunch,2.7,Refrigerated,72.0,69.3,0.038,0.0
+F038,Mutton Biryani (North Style),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F004,Upma,Dinner,6.7,Room Temp,8.0,1.3,0.838,0.892
+F018,Mutton Sukka,Lunch,4.1,Room Temp,5.1,1.0,0.804,0.917
+F008,Lemon Rice,Dinner,3.0,Room Temp,7.0,4.0,0.429,0.667
+F000,Plain Rice,Dinner,3.3,Room Temp,8.0,4.7,0.412,0.608
+F035,Rogan Josh (Mutton),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F028,Palak Paneer,Lunch,5.3,Room Temp,6.4,1.1,0.828,0.908
+F050,Fish Fillet,Dinner,0.5,Room Temp,0.5,0.0,1.0,1.0
+F065,Curd/Yogurt,Lunch,3.3,Room Temp,5.4,2.1,0.611,0.825
+F005,Vada (2 pcs),Lunch,2.8,Refrigerated,59.0,56.2,0.047,0.0
+F008,Lemon Rice,Dinner,10.3,Refrigerated,48.0,37.7,0.215,0.0
+F020,Egg Roast,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F007,Uttapam,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F050,Fish Fillet,Dinner,0.5,Room Temp,0.5,0.0,1.0,1.0
+F017,Prawn Fry,Dinner,3.3,Room Temp,8.0,4.7,0.412,0.608
+F027,Rajma Chawal,Lunch,3.2,Room Temp,4.8,1.6,0.667,0.867
+F017,Prawn Fry,Dinner,3.1,Refrigerated,56.0,52.9,0.055,0.0
+F016,Meen Kuzhambu (Fish Curry),Lunch,3.5,Refrigerated,36.0,32.5,0.097,0.0
+F011,Avial,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F017,Prawn Fry,Dinner,4.2,Room Temp,8.0,3.8,0.525,0.683
+F025,Chana Masala,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F031,Tandoori Roti (2 pcs),Dinner,4.9,Refrigerated,63.0,58.1,0.078,0.0
+F036,Tandoori Chicken (Half),Dinner,5.2,Room Temp,8.0,2.8,0.65,0.767
+F008,Lemon Rice,Lunch,3.2,Room Temp,6.3,3.1,0.508,0.742
+F001,Idli (2 pcs),Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F026,Aloo Gobi,Dinner,4.7,Refrigerated,63.0,58.3,0.075,0.0
+F011,Avial,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F033,Mix Vegetable Curry,Lunch,4.3,Room Temp,5.7,1.4,0.754,0.883
+F034,Butter Chicken,Lunch,2.4,Room Temp,3.4,1.0,0.706,0.917
+F027,Rajma Chawal,Lunch,2.7,Refrigerated,53.0,50.3,0.051,0.0
+F002,Dosa (Plain),Dinner,4.5,Room Temp,7.0,2.5,0.643,0.792
+F060,Spinach,Lunch,8.9,Room Temp,42.7,33.8,0.208,0.0
+F055,Tomatoes,Dinner,6.2,Refrigerated,168.0,161.8,0.037,0.0
+F001,Idli (2 pcs),Lunch,3.8,Refrigerated,62.0,58.2,0.061,0.0
+F025,Chana Masala,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F002,Dosa (Plain),Lunch,4.0,Refrigerated,58.0,54.0,0.069,0.0
+F017,Prawn Fry,Dinner,6.1,Refrigerated,56.0,49.9,0.109,0.0
+F018,Mutton Sukka,Lunch,5.1,Refrigerated,72.0,66.9,0.071,0.0
+F007,Uttapam,Lunch,5.4,Refrigerated,71.0,65.6,0.076,0.0
+F009,Curd Rice,Lunch,1.5,Refrigerated,67.0,65.5,0.022,0.0
+F030,Vegetable Biryani (North Style),Lunch,4.6,Room Temp,5.6,1.0,0.821,0.917
+F021,Fish Fry,Lunch,3.0,Room Temp,6.6,3.6,0.455,0.7
+F032,Naan,Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F005,Vada (2 pcs),Lunch,4.3,Room Temp,5.3,1.0,0.811,0.917
+F024,Dal Makhani,Lunch,3.3,Room Temp,4.8,1.5,0.688,0.875
+F024,Dal Makhani,Dinner,3.9,Room Temp,6.0,2.1,0.65,0.825
+F033,Mix Vegetable Curry,Lunch,3.0,Room Temp,6.1,3.1,0.492,0.742
+F017,Prawn Fry,Dinner,6.6,Room Temp,8.0,1.4,0.825,0.883
+F018,Mutton Sukka,Lunch,3.1,Room Temp,5.1,2.0,0.608,0.833
+F004,Upma,Lunch,2.2,Refrigerated,58.0,55.8,0.038,0.0
+F019,Chicken Biryani (South Style),Lunch,2.8,Refrigerated,64.0,61.2,0.044,0.0
+F020,Egg Roast,Dinner,3.6,Refrigerated,72.0,68.4,0.05,0.0
+F008,Lemon Rice,Lunch,2.4,Room Temp,6.0,3.6,0.4,0.7
+F021,Fish Fry,Dinner,8.8,Refrigerated,68.0,59.2,0.129,0.0
+F004,Upma,Lunch,3.7,Refrigerated,58.0,54.3,0.064,0.0
+F055,Tomatoes,Dinner,2.7,Refrigerated,168.0,165.3,0.016,0.0
+F023,Paneer Butter Masala,Lunch,2.5,Refrigerated,67.0,64.5,0.037,0.0
+F016,Meen Kuzhambu (Fish Curry),Lunch,1.4,Room Temp,2.4,1.0,0.583,0.917
+F022,Mutton Kothu Parotta,Lunch,2.6,Refrigerated,63.0,60.4,0.041,0.0
+F012,Vegetable Stew,Dinner,5.8,Room Temp,8.0,2.2,0.725,0.817
+F055,Tomatoes,Lunch,6.8,Room Temp,83.8,77.0,0.081,0.0
+F033,Mix Vegetable Curry,Dinner,5.1,Refrigerated,58.0,52.9,0.088,0.0
+F037,Chicken Tikka Masala,Dinner,2.7,Refrigerated,56.0,53.3,0.048,0.0
+F048,Chicken Breast,Dinner,5.9,Frozen,720.0,714.1,0.008,0.0
+F018,Mutton Sukka,Lunch,4.0,Room Temp,5.0,1.0,0.8,0.917
+F039,Keema Matar,Lunch,4.9,Room Temp,5.9,1.0,0.831,0.917
+F034,Butter Chicken,Lunch,2.4,Room Temp,3.4,1.0,0.706,0.917
+F010,Sambar Rice,Dinner,4.4,Refrigerated,70.0,65.6,0.063,0.0
+F026,Aloo Gobi,Dinner,2.5,Refrigerated,63.0,60.5,0.04,0.0
+F027,Rajma Chawal,Dinner,2.5,Room Temp,6.0,3.5,0.417,0.708
+F008,Lemon Rice,Dinner,4.8,Refrigerated,48.0,43.2,0.1,0.0
+F027,Rajma Chawal,Lunch,9.6,Refrigerated,53.0,43.4,0.181,0.0
+F002,Dosa (Plain),Lunch,3.0,Room Temp,5.9,2.9,0.508,0.758
+F001,Idli (2 pcs),Dinner,5.6,Refrigerated,62.0,56.4,0.09,0.0
+F006,Pongal,Dinner,2.9,Refrigerated,52.0,49.1,0.056,0.0
+F034,Butter Chicken,Lunch,1.6,Room Temp,3.3,1.7,0.485,0.858
+F011,Avial,Dinner,3.2,Room Temp,5.0,1.8,0.64,0.85
+F030,Vegetable Biryani (North Style),Lunch,4.6,Refrigerated,57.0,52.4,0.081,0.0
+F021,Fish Fry,Dinner,9.1,Refrigerated,68.0,58.9,0.134,0.0
+F009,Curd Rice,Dinner,4.2,Refrigerated,67.0,62.8,0.063,0.0
+F034,Butter Chicken,Lunch,2.5,Room Temp,3.5,1.0,0.714,0.917
+F003,Masala Dosa,Lunch,3.0,Room Temp,5.9,2.9,0.508,0.758
+F065,Curd/Yogurt,Lunch,4.1,Room Temp,5.1,1.0,0.804,0.917
+F066,Milk,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F015,Chicken Chettinad,Lunch,2.3,Room Temp,3.3,1.0,0.697,0.917
+F024,Dal Makhani,Lunch,4.8,Refrigerated,60.0,55.2,0.08,0.0
+F020,Egg Roast,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F050,Fish Fillet,Dinner,5.1,Refrigerated,12.0,6.9,0.425,0.425
+F032,Naan,Lunch,1.4,Refrigerated,62.0,60.6,0.023,0.0
+F002,Dosa (Plain),Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F019,Chicken Biryani (South Style),Lunch,6.9,Refrigerated,64.0,57.1,0.108,0.0
+F036,Tandoori Chicken (Half),Dinner,3.3,Refrigerated,63.0,59.7,0.052,0.0
+F029,Shahi Paneer,Dinner,7.4,Refrigerated,68.0,60.6,0.109,0.0
+F021,Fish Fry,Dinner,3.7,Refrigerated,68.0,64.3,0.054,0.0
+F033,Mix Vegetable Curry,Dinner,5.4,Room Temp,7.0,1.6,0.771,0.867
+F037,Chicken Tikka Masala,Lunch,5.3,Refrigerated,56.0,50.7,0.095,0.0
+F009,Curd Rice,Dinner,6.2,Room Temp,8.0,1.8,0.775,0.85
+F060,Spinach,Dinner,6.4,Room Temp,48.0,41.6,0.133,0.0
+F029,Shahi Paneer,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F039,Keema Matar,Dinner,2.8,Room Temp,7.0,4.2,0.4,0.65
+F002,Dosa (Plain),Lunch,4.8,Room Temp,5.8,1.0,0.828,0.917
+F009,Curd Rice,Lunch,3.4,Room Temp,7.0,3.6,0.486,0.7
+F021,Fish Fry,Lunch,5.5,Room Temp,7.1,1.6,0.775,0.867
+F010,Sambar Rice,Dinner,8.1,Refrigerated,70.0,61.9,0.116,0.0
+F010,Sambar Rice,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F022,Mutton Kothu Parotta,Lunch,8.5,Refrigerated,63.0,54.5,0.135,0.0
+F014,Medu Vada,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F033,Mix Vegetable Curry,Lunch,11.8,Refrigerated,58.0,46.2,0.203,0.0
+F024,Dal Makhani,Dinner,4.6,Room Temp,6.0,1.4,0.767,0.883
+F066,Milk,Lunch,4.0,Refrigerated,71.0,67.0,0.056,0.0
+F026,Aloo Gobi,Dinner,9.7,Refrigerated,63.0,53.3,0.154,0.0
+F006,Pongal,Dinner,3.1,Refrigerated,52.0,48.9,0.06,0.0
+F048,Chicken Breast,Lunch,5.6,Frozen,720.0,714.4,0.008,0.0
+F014,Medu Vada,Lunch,6.4,Refrigerated,65.0,58.6,0.098,0.0
+F019,Chicken Biryani (South Style),Lunch,3.3,Room Temp,5.4,2.1,0.611,0.825
+F035,Rogan Josh (Mutton),Lunch,2.9,Refrigerated,55.0,52.1,0.053,0.0
+F036,Tandoori Chicken (Half),Dinner,3.2,Room Temp,8.0,4.8,0.4,0.6
+F001,Idli (2 pcs),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F039,Keema Matar,Dinner,4.3,Room Temp,7.0,2.7,0.614,0.775
+F038,Mutton Biryani (North Style),Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F014,Medu Vada,Dinner,8.4,Refrigerated,65.0,56.6,0.129,0.0
+F004,Upma,Dinner,15.0,Refrigerated,58.0,43.0,0.259,0.0
+F066,Milk,Lunch,5.7,Refrigerated,71.0,65.3,0.08,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,2.9,Room Temp,5.0,2.1,0.58,0.825
+F005,Vada (2 pcs),Dinner,5.4,Refrigerated,59.0,53.6,0.092,0.0
+F050,Fish Fillet,Dinner,3.7,Refrigerated,12.0,8.3,0.308,0.308
+F006,Pongal,Dinner,3.0,Room Temp,5.0,2.0,0.6,0.833
+F034,Butter Chicken,Lunch,2.5,Room Temp,3.5,1.0,0.714,0.917
+F012,Vegetable Stew,Dinner,4.4,Refrigerated,70.0,65.6,0.063,0.0
+F004,Upma,Lunch,5.5,Room Temp,6.5,1.0,0.846,0.917
+F002,Dosa (Plain),Dinner,8.0,Refrigerated,58.0,50.0,0.138,0.0
+F013,Appam,Dinner,4.7,Room Temp,8.0,3.3,0.588,0.725
+F037,Chicken Tikka Masala,Dinner,4.4,Refrigerated,56.0,51.6,0.079,0.0
+F000,Plain Rice,Lunch,3.7,Room Temp,6.9,3.2,0.536,0.733
+F019,Chicken Biryani (South Style),Dinner,4.7,Room Temp,6.0,1.3,0.783,0.892
+F027,Rajma Chawal,Lunch,8.9,Refrigerated,53.0,44.1,0.168,0.0
+F066,Milk,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F007,Uttapam,Dinner,2.1,Room Temp,5.0,2.9,0.42,0.758
+F001,Idli (2 pcs),Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F004,Upma,Lunch,6.9,Refrigerated,58.0,51.1,0.119,0.0
+F033,Mix Vegetable Curry,Dinner,9.3,Refrigerated,58.0,48.7,0.16,0.0
+F036,Tandoori Chicken (Half),Lunch,4.6,Room Temp,6.5,1.9,0.708,0.842
+F013,Appam,Dinner,7.5,Refrigerated,61.0,53.5,0.123,0.0
+F000,Plain Rice,Lunch,5.7,Room Temp,6.7,1.0,0.851,0.917
+F000,Plain Rice,Dinner,4.7,Room Temp,8.0,3.3,0.588,0.725
+F012,Vegetable Stew,Lunch,4.7,Refrigerated,70.0,65.3,0.067,0.0
+F012,Vegetable Stew,Lunch,5.1,Room Temp,7.0,1.9,0.729,0.842
+F018,Mutton Sukka,Lunch,1.9,Refrigerated,72.0,70.1,0.026,0.0
+F010,Sambar Rice,Dinner,6.6,Refrigerated,70.0,63.4,0.094,0.0
+F004,Upma,Dinner,3.6,Room Temp,8.0,4.4,0.45,0.633
+F022,Mutton Kothu Parotta,Lunch,4.1,Refrigerated,63.0,58.9,0.065,0.0
+F020,Egg Roast,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F001,Idli (2 pcs),Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F001,Idli (2 pcs),Dinner,3.9,Refrigerated,62.0,58.1,0.063,0.0
+F006,Pongal,Lunch,2.6,Refrigerated,52.0,49.4,0.05,0.0
+F065,Curd/Yogurt,Dinner,2.8,Room Temp,6.0,3.2,0.467,0.733
+F019,Chicken Biryani (South Style),Lunch,13.8,Refrigerated,64.0,50.2,0.216,0.0
+F065,Curd/Yogurt,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F048,Chicken Breast,Lunch,0.5,Room Temp,0.9,0.4,0.556,0.967
+F011,Avial,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F040,Chicken Curry (Punjabi Style),Lunch,6.3,Refrigerated,50.0,43.7,0.126,0.0
+F012,Vegetable Stew,Dinner,3.2,Refrigerated,70.0,66.8,0.046,0.0
+F007,Uttapam,Dinner,4.1,Refrigerated,71.0,66.9,0.058,0.0
+F016,Meen Kuzhambu (Fish Curry),Lunch,6.8,Refrigerated,36.0,29.2,0.189,0.0
+F008,Lemon Rice,Lunch,3.4,Room Temp,6.0,2.6,0.567,0.783
+F024,Dal Makhani,Lunch,3.9,Room Temp,4.9,1.0,0.796,0.917
+F000,Plain Rice,Lunch,3.4,Room Temp,6.4,3.0,0.531,0.75
+F007,Uttapam,Dinner,6.3,Refrigerated,71.0,64.7,0.089,0.0
+F026,Aloo Gobi,Lunch,6.3,Refrigerated,63.0,56.7,0.1,0.0
+F008,Lemon Rice,Dinner,4.0,Room Temp,7.0,3.0,0.571,0.75
+F005,Vada (2 pcs),Lunch,3.5,Refrigerated,59.0,55.5,0.059,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,3.7,Refrigerated,50.0,46.3,0.074,0.0
+F006,Pongal,Lunch,9.8,Refrigerated,52.0,42.2,0.188,0.0
+F036,Tandoori Chicken (Half),Lunch,5.6,Room Temp,6.6,1.0,0.848,0.917
+F023,Paneer Butter Masala,Dinner,3.7,Refrigerated,67.0,63.3,0.055,0.0
+F006,Pongal,Lunch,4.3,Refrigerated,52.0,47.7,0.083,0.0
+F009,Curd Rice,Lunch,2.0,Refrigerated,67.0,65.0,0.03,0.0
+F015,Chicken Chettinad,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F065,Curd/Yogurt,Lunch,4.3,Refrigerated,56.0,51.7,0.077,0.0
+F034,Butter Chicken,Dinner,3.2,Refrigerated,50.0,46.8,0.064,0.0
+F060,Spinach,Dinner,4.7,Refrigerated,72.0,67.3,0.065,0.0
+F003,Masala Dosa,Dinner,5.6,Refrigerated,71.0,65.4,0.079,0.0
+F019,Chicken Biryani (South Style),Dinner,3.4,Room Temp,6.0,2.6,0.567,0.783
+F024,Dal Makhani,Dinner,3.3,Room Temp,6.0,2.7,0.55,0.775
+F035,Rogan Josh (Mutton),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F065,Curd/Yogurt,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F065,Curd/Yogurt,Dinner,2.4,Refrigerated,56.0,53.6,0.043,0.0
+F002,Dosa (Plain),Dinner,7.4,Refrigerated,58.0,50.6,0.128,0.0
+F048,Chicken Breast,Dinner,0.5,Room Temp,1.0,0.5,0.5,0.958
+F035,Rogan Josh (Mutton),Dinner,1.9,Room Temp,5.0,3.1,0.38,0.742
+F033,Mix Vegetable Curry,Dinner,4.5,Refrigerated,58.0,53.5,0.078,0.0
+F017,Prawn Fry,Dinner,17.7,Refrigerated,56.0,38.3,0.316,0.0
+F006,Pongal,Dinner,2.0,Room Temp,5.0,3.0,0.4,0.75
+F035,Rogan Josh (Mutton),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F037,Chicken Tikka Masala,Dinner,4.2,Refrigerated,56.0,51.8,0.075,0.0
+F037,Chicken Tikka Masala,Dinner,3.3,Room Temp,7.0,3.7,0.471,0.692
+F024,Dal Makhani,Dinner,2.6,Room Temp,6.0,3.4,0.433,0.717
+F019,Chicken Biryani (South Style),Dinner,3.8,Refrigerated,64.0,60.2,0.059,0.0
+F037,Chicken Tikka Masala,Lunch,3.7,Refrigerated,56.0,52.3,0.066,0.0
+F017,Prawn Fry,Lunch,5.6,Room Temp,6.7,1.1,0.836,0.908
+F034,Butter Chicken,Lunch,2.5,Room Temp,3.5,1.0,0.714,0.917
+F039,Keema Matar,Dinner,1.7,Room Temp,7.0,5.3,0.243,0.558
+F050,Fish Fillet,Dinner,0.5,Room Temp,0.5,0.0,1.0,1.0
+F037,Chicken Tikka Masala,Dinner,3.2,Refrigerated,56.0,52.8,0.057,0.0
+F023,Paneer Butter Masala,Dinner,4.2,Refrigerated,67.0,62.8,0.063,0.0
+F008,Lemon Rice,Lunch,3.5,Room Temp,6.0,2.5,0.583,0.792
+F035,Rogan Josh (Mutton),Dinner,3.0,Refrigerated,55.0,52.0,0.055,0.0
+F036,Tandoori Chicken (Half),Dinner,5.4,Room Temp,8.0,2.6,0.675,0.783
+F030,Vegetable Biryani (North Style),Dinner,7.5,Refrigerated,57.0,49.5,0.132,0.0
+F060,Spinach,Lunch,2.8,Refrigerated,72.0,69.2,0.039,0.0
+F037,Chicken Tikka Masala,Lunch,3.4,Room Temp,5.7,2.3,0.596,0.808
+F014,Medu Vada,Dinner,6.0,Room Temp,8.0,2.0,0.75,0.833
+F033,Mix Vegetable Curry,Dinner,4.0,Room Temp,7.0,3.0,0.571,0.75
+F030,Vegetable Biryani (North Style),Dinner,11.5,Refrigerated,57.0,45.5,0.202,0.0
+F014,Medu Vada,Lunch,5.6,Refrigerated,65.0,59.4,0.086,0.0
+F008,Lemon Rice,Lunch,2.4,Room Temp,6.2,3.8,0.387,0.683
+F039,Keema Matar,Lunch,2.3,Room Temp,5.7,3.4,0.404,0.717
+F018,Mutton Sukka,Dinner,4.9,Refrigerated,72.0,67.1,0.068,0.0
+F017,Prawn Fry,Dinner,4.7,Refrigerated,56.0,51.3,0.084,0.0
+F017,Prawn Fry,Dinner,4.5,Refrigerated,56.0,51.5,0.08,0.0
+F036,Tandoori Chicken (Half),Lunch,5.7,Room Temp,6.7,1.0,0.851,0.917
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F032,Naan,Lunch,3.0,Refrigerated,62.0,59.0,0.048,0.0
+F028,Palak Paneer,Lunch,2.9,Room Temp,6.5,3.6,0.446,0.7
+F024,Dal Makhani,Lunch,4.1,Room Temp,5.1,1.0,0.804,0.917
+F023,Paneer Butter Masala,Dinner,3.3,Refrigerated,67.0,63.7,0.049,0.0
+F023,Paneer Butter Masala,Dinner,2.5,Refrigerated,67.0,64.5,0.037,0.0
+F039,Keema Matar,Dinner,11.7,Refrigerated,65.0,53.3,0.18,0.0
+F033,Mix Vegetable Curry,Lunch,3.4,Refrigerated,58.0,54.6,0.059,0.0
+F008,Lemon Rice,Dinner,1.6,Room Temp,7.0,5.4,0.229,0.55
+F011,Avial,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F003,Masala Dosa,Lunch,3.0,Refrigerated,71.0,68.0,0.042,0.0
+F023,Paneer Butter Masala,Dinner,3.2,Room Temp,8.0,4.8,0.4,0.6
+F032,Naan,Lunch,5.6,Refrigerated,62.0,56.4,0.09,0.0
+F031,Tandoori Roti (2 pcs),Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F005,Vada (2 pcs),Dinner,4.7,Room Temp,6.0,1.3,0.783,0.892
+F001,Idli (2 pcs),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F017,Prawn Fry,Dinner,2.9,Room Temp,8.0,5.1,0.363,0.575
+F012,Vegetable Stew,Dinner,5.9,Room Temp,8.0,2.1,0.738,0.825
+F030,Vegetable Biryani (North Style),Lunch,6.3,Refrigerated,57.0,50.7,0.111,0.0
+F007,Uttapam,Lunch,6.9,Refrigerated,71.0,64.1,0.097,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,2.0,Refrigerated,50.0,48.0,0.04,0.0
+F055,Tomatoes,Lunch,2.2,Refrigerated,168.0,165.8,0.013,0.0
+F035,Rogan Josh (Mutton),Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F013,Appam,Dinner,4.8,Refrigerated,61.0,56.2,0.079,0.0
+F002,Dosa (Plain),Lunch,5.0,Room Temp,6.0,1.0,0.833,0.917
+F031,Tandoori Roti (2 pcs),Lunch,2.9,Room Temp,6.8,3.9,0.426,0.675
+F009,Curd Rice,Lunch,2.3,Room Temp,7.0,4.7,0.329,0.608
+F039,Keema Matar,Dinner,3.7,Refrigerated,65.0,61.3,0.057,0.0
+F001,Idli (2 pcs),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F016,Meen Kuzhambu (Fish Curry),Dinner,4.6,Refrigerated,36.0,31.4,0.128,0.0
+F037,Chicken Tikka Masala,Lunch,3.2,Refrigerated,56.0,52.8,0.057,0.0
+F013,Appam,Dinner,12.9,Refrigerated,61.0,48.1,0.211,0.0
+F008,Lemon Rice,Dinner,2.4,Room Temp,7.0,4.6,0.343,0.617
+F008,Lemon Rice,Dinner,2.7,Room Temp,7.0,4.3,0.386,0.642
+F026,Aloo Gobi,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F008,Lemon Rice,Dinner,2.3,Refrigerated,48.0,45.7,0.048,0.0
+F036,Tandoori Chicken (Half),Lunch,4.2,Refrigerated,63.0,58.8,0.067,0.0
+F040,Chicken Curry (Punjabi Style),Lunch,1.9,Refrigerated,50.0,48.1,0.038,0.0
+F006,Pongal,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F015,Chicken Chettinad,Dinner,9.6,Refrigerated,48.0,38.4,0.2,0.0
+F031,Tandoori Roti (2 pcs),Dinner,11.2,Refrigerated,63.0,51.8,0.178,0.0
+F035,Rogan Josh (Mutton),Lunch,7.0,Refrigerated,55.0,48.0,0.127,0.0
+F036,Tandoori Chicken (Half),Lunch,5.3,Room Temp,6.5,1.2,0.815,0.9
+F065,Curd/Yogurt,Lunch,4.0,Room Temp,5.0,1.0,0.8,0.917
+F050,Fish Fillet,Lunch,5.0,Refrigerated,12.0,7.0,0.417,0.417
+F009,Curd Rice,Dinner,4.4,Refrigerated,67.0,62.6,0.066,0.0
+F004,Upma,Dinner,3.7,Room Temp,8.0,4.3,0.463,0.642
+F030,Vegetable Biryani (North Style),Lunch,6.7,Refrigerated,57.0,50.3,0.118,0.0
+F009,Curd Rice,Lunch,6.4,Refrigerated,67.0,60.6,0.096,0.0
+F065,Curd/Yogurt,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F021,Fish Fry,Lunch,4.0,Refrigerated,68.0,64.0,0.059,0.0
+F001,Idli (2 pcs),Dinner,3.0,Refrigerated,62.0,59.0,0.048,0.0
+F018,Mutton Sukka,Dinner,3.5,Room Temp,6.0,2.5,0.583,0.792
+F018,Mutton Sukka,Lunch,4.1,Room Temp,5.1,1.0,0.804,0.917
+F029,Shahi Paneer,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F055,Tomatoes,Dinner,6.1,Refrigerated,168.0,161.9,0.036,0.0
+F026,Aloo Gobi,Lunch,6.4,Refrigerated,63.0,56.6,0.102,0.0
+F020,Egg Roast,Lunch,7.1,Refrigerated,72.0,64.9,0.099,0.0
+F060,Spinach,Dinner,3.4,Room Temp,48.0,44.6,0.071,0.0
+F018,Mutton Sukka,Lunch,4.9,Refrigerated,72.0,67.1,0.068,0.0
+F021,Fish Fry,Lunch,3.0,Refrigerated,68.0,65.0,0.044,0.0
+F034,Butter Chicken,Lunch,1.7,Refrigerated,50.0,48.3,0.034,0.0
+F023,Paneer Butter Masala,Lunch,8.5,Refrigerated,67.0,58.5,0.127,0.0
+F009,Curd Rice,Lunch,4.1,Room Temp,6.9,2.8,0.594,0.767
+F013,Appam,Dinner,5.2,Refrigerated,61.0,55.8,0.085,0.0
+F022,Mutton Kothu Parotta,Dinner,6.1,Refrigerated,63.0,56.9,0.097,0.0
+F007,Uttapam,Dinner,7.9,Refrigerated,71.0,63.1,0.111,0.0
+F033,Mix Vegetable Curry,Lunch,2.5,Room Temp,5.7,3.2,0.439,0.733
+F010,Sambar Rice,Dinner,2.9,Room Temp,5.0,2.1,0.58,0.825
+F015,Chicken Chettinad,Dinner,7.7,Refrigerated,48.0,40.3,0.16,0.0
+F016,Meen Kuzhambu (Fish Curry),Dinner,4.3,Refrigerated,36.0,31.7,0.119,0.0
+F012,Vegetable Stew,Dinner,7.2,Refrigerated,70.0,62.8,0.103,0.0
+F000,Plain Rice,Dinner,1.7,Refrigerated,72.0,70.3,0.024,0.0
+F005,Vada (2 pcs),Dinner,6.5,Refrigerated,59.0,52.5,0.11,0.0
+F020,Egg Roast,Lunch,2.6,Room Temp,4.4,1.8,0.591,0.85
+F017,Prawn Fry,Lunch,9.3,Refrigerated,56.0,46.7,0.166,0.0
+F009,Curd Rice,Dinner,3.5,Refrigerated,67.0,63.5,0.052,0.0
+F022,Mutton Kothu Parotta,Dinner,13.0,Refrigerated,63.0,50.0,0.206,0.0
+F014,Medu Vada,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F031,Tandoori Roti (2 pcs),Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F001,Idli (2 pcs),Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F021,Fish Fry,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F027,Rajma Chawal,Lunch,3.0,Refrigerated,53.0,50.0,0.057,0.0
+F000,Plain Rice,Dinner,3.5,Refrigerated,72.0,68.5,0.049,0.0
+F006,Pongal,Dinner,3.8,Refrigerated,52.0,48.2,0.073,0.0
+F025,Chana Masala,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F022,Mutton Kothu Parotta,Dinner,4.6,Refrigerated,63.0,58.4,0.073,0.0
+F024,Dal Makhani,Dinner,6.3,Refrigerated,60.0,53.7,0.105,0.0
+F015,Chicken Chettinad,Lunch,2.3,Room Temp,3.3,1.0,0.697,0.917
+F055,Tomatoes,Lunch,8.2,Refrigerated,168.0,159.8,0.049,0.0
+F031,Tandoori Roti (2 pcs),Lunch,7.6,Refrigerated,63.0,55.4,0.121,0.0
+F023,Paneer Butter Masala,Lunch,2.1,Room Temp,7.1,5.0,0.296,0.583
+F024,Dal Makhani,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F028,Palak Paneer,Dinner,1.6,Room Temp,8.0,6.4,0.2,0.467
+F060,Spinach,Dinner,3.2,Room Temp,48.0,44.8,0.067,0.0
+F019,Chicken Biryani (South Style),Dinner,2.7,Refrigerated,64.0,61.3,0.042,0.0
+F050,Fish Fillet,Lunch,1.4,Frozen,360.0,358.6,0.004,0.0
+F033,Mix Vegetable Curry,Lunch,4.1,Room Temp,6.2,2.1,0.661,0.825
+F028,Palak Paneer,Dinner,5.5,Refrigerated,71.0,65.5,0.077,0.0
+F024,Dal Makhani,Dinner,6.5,Refrigerated,60.0,53.5,0.108,0.0
+F000,Plain Rice,Dinner,3.9,Refrigerated,72.0,68.1,0.054,0.0
+F016,Meen Kuzhambu (Fish Curry),Lunch,5.1,Refrigerated,36.0,30.9,0.142,0.0
+F024,Dal Makhani,Dinner,4.0,Refrigerated,60.0,56.0,0.067,0.0
+F015,Chicken Chettinad,Lunch,4.7,Refrigerated,48.0,43.3,0.098,0.0
+F011,Avial,Lunch,3.0,Room Temp,4.2,1.2,0.714,0.9
+F011,Avial,Lunch,2.8,Room Temp,4.2,1.4,0.667,0.883
+F065,Curd/Yogurt,Dinner,10.0,Refrigerated,56.0,46.0,0.179,0.0
+F025,Chana Masala,Lunch,2.4,Room Temp,4.0,1.6,0.6,0.867
+F025,Chana Masala,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F027,Rajma Chawal,Dinner,6.2,Refrigerated,53.0,46.8,0.117,0.0
+F004,Upma,Lunch,3.5,Refrigerated,58.0,54.5,0.06,0.0
+F048,Chicken Breast,Lunch,11.4,Refrigerated,24.0,12.6,0.475,0.0
+F065,Curd/Yogurt,Lunch,4.3,Room Temp,5.3,1.0,0.811,0.917
+F024,Dal Makhani,Dinner,11.3,Refrigerated,60.0,48.7,0.188,0.0
+F014,Medu Vada,Dinner,3.1,Refrigerated,65.0,61.9,0.048,0.0
+F008,Lemon Rice,Dinner,5.1,Room Temp,7.0,1.9,0.729,0.842
+F040,Chicken Curry (Punjabi Style),Lunch,4.3,Refrigerated,50.0,45.7,0.086,0.0
+F017,Prawn Fry,Dinner,3.9,Room Temp,8.0,4.1,0.488,0.658
+F010,Sambar Rice,Lunch,5.4,Refrigerated,70.0,64.6,0.077,0.0
+F060,Spinach,Dinner,1.7,Room Temp,48.0,46.3,0.035,0.0
+F003,Masala Dosa,Lunch,4.9,Room Temp,5.9,1.0,0.831,0.917
+F050,Fish Fillet,Dinner,5.4,Frozen,360.0,354.6,0.015,0.0
+F025,Chana Masala,Dinner,3.2,Refrigerated,57.0,53.8,0.056,0.0
+F024,Dal Makhani,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F022,Mutton Kothu Parotta,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F033,Mix Vegetable Curry,Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F028,Palak Paneer,Dinner,3.3,Room Temp,8.0,4.7,0.412,0.608
+F040,Chicken Curry (Punjabi Style),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F050,Fish Fillet,Lunch,0.5,Room Temp,0.4,0.0,1.0,1.0
+F032,Naan,Lunch,4.6,Room Temp,5.6,1.0,0.821,0.917
+F001,Idli (2 pcs),Dinner,3.5,Room Temp,5.0,1.5,0.7,0.875
+F013,Appam,Lunch,3.3,Room Temp,6.7,3.4,0.493,0.717
+F004,Upma,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F028,Palak Paneer,Dinner,2.7,Room Temp,8.0,5.3,0.338,0.558
+F026,Aloo Gobi,Dinner,4.3,Refrigerated,63.0,58.7,0.068,0.0
+F008,Lemon Rice,Dinner,3.2,Refrigerated,48.0,44.8,0.067,0.0
+F021,Fish Fry,Dinner,2.1,Room Temp,8.0,5.9,0.262,0.508
+F015,Chicken Chettinad,Lunch,1.6,Room Temp,3.3,1.7,0.485,0.858
+F055,Tomatoes,Dinner,5.8,Room Temp,96.0,90.2,0.06,0.0
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F024,Dal Makhani,Lunch,3.9,Room Temp,4.9,1.0,0.796,0.917
+F015,Chicken Chettinad,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F065,Curd/Yogurt,Lunch,4.3,Room Temp,5.3,1.0,0.811,0.917
+F040,Chicken Curry (Punjabi Style),Dinner,3.4,Room Temp,5.0,1.6,0.68,0.867
+F019,Chicken Biryani (South Style),Lunch,4.0,Room Temp,5.1,1.1,0.784,0.908
+F013,Appam,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F014,Medu Vada,Dinner,4.0,Room Temp,8.0,4.0,0.5,0.667
+F033,Mix Vegetable Curry,Lunch,3.3,Refrigerated,58.0,54.7,0.057,0.0
+F019,Chicken Biryani (South Style),Dinner,4.7,Room Temp,6.0,1.3,0.783,0.892
+F030,Vegetable Biryani (North Style),Lunch,5.1,Refrigerated,57.0,51.9,0.089,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,3.1,Refrigerated,50.0,46.9,0.062,0.0
+F055,Tomatoes,Dinner,6.6,Refrigerated,168.0,161.4,0.039,0.0
+F023,Paneer Butter Masala,Lunch,3.6,Room Temp,6.5,2.9,0.554,0.758
+F006,Pongal,Dinner,7.0,Refrigerated,52.0,45.0,0.135,0.0
+F055,Tomatoes,Dinner,5.2,Refrigerated,168.0,162.8,0.031,0.0
+F006,Pongal,Lunch,2.5,Room Temp,4.2,1.7,0.595,0.858
+F015,Chicken Chettinad,Lunch,2.3,Room Temp,3.3,1.0,0.697,0.917
+F015,Chicken Chettinad,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F024,Dal Makhani,Lunch,3.9,Refrigerated,60.0,56.1,0.065,0.0
+F048,Chicken Breast,Lunch,7.6,Frozen,720.0,712.4,0.011,0.0
+F007,Uttapam,Dinner,2.7,Refrigerated,71.0,68.3,0.038,0.0
+F036,Tandoori Chicken (Half),Dinner,5.6,Refrigerated,63.0,57.4,0.089,0.0
+F012,Vegetable Stew,Lunch,2.9,Refrigerated,70.0,67.1,0.041,0.0
+F034,Butter Chicken,Lunch,4.4,Refrigerated,50.0,45.6,0.088,0.0
+F012,Vegetable Stew,Lunch,8.3,Refrigerated,70.0,61.7,0.119,0.0
+F014,Medu Vada,Lunch,13.8,Refrigerated,65.0,51.2,0.212,0.0
+F006,Pongal,Dinner,3.2,Room Temp,5.0,1.8,0.64,0.85
+F055,Tomatoes,Lunch,3.8,Refrigerated,168.0,164.2,0.023,0.0
+F027,Rajma Chawal,Dinner,2.6,Refrigerated,53.0,50.4,0.049,0.0
+F000,Plain Rice,Dinner,2.4,Refrigerated,72.0,69.6,0.033,0.0
+F032,Naan,Lunch,3.8,Refrigerated,62.0,58.2,0.061,0.0
+F050,Fish Fillet,Dinner,4.8,Refrigerated,12.0,7.2,0.4,0.4
+F003,Masala Dosa,Dinner,6.0,Refrigerated,71.0,65.0,0.085,0.0
+F014,Medu Vada,Lunch,3.4,Refrigerated,65.0,61.6,0.052,0.0
+F028,Palak Paneer,Dinner,4.1,Room Temp,8.0,3.9,0.512,0.675
+F065,Curd/Yogurt,Lunch,6.0,Refrigerated,56.0,50.0,0.107,0.0
+F006,Pongal,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F066,Milk,Dinner,5.5,Refrigerated,71.0,65.5,0.077,0.0
+F009,Curd Rice,Dinner,2.9,Refrigerated,67.0,64.1,0.043,0.0
+F034,Butter Chicken,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F034,Butter Chicken,Dinner,8.6,Refrigerated,50.0,41.4,0.172,0.0
+F048,Chicken Breast,Dinner,5.4,Frozen,720.0,714.6,0.007,0.0
+F031,Tandoori Roti (2 pcs),Lunch,4.4,Refrigerated,63.0,58.6,0.07,0.0
+F027,Rajma Chawal,Lunch,3.9,Room Temp,4.9,1.0,0.796,0.917
+F039,Keema Matar,Lunch,7.4,Refrigerated,65.0,57.6,0.114,0.0
+F023,Paneer Butter Masala,Dinner,6.2,Refrigerated,67.0,60.8,0.093,0.0
+F024,Dal Makhani,Lunch,2.4,Room Temp,5.0,2.6,0.48,0.783
+F016,Meen Kuzhambu (Fish Curry),Lunch,2.2,Refrigerated,36.0,33.8,0.061,0.0
+F066,Milk,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F019,Chicken Biryani (South Style),Lunch,4.3,Room Temp,5.3,1.0,0.811,0.917
+F003,Masala Dosa,Dinner,3.0,Room Temp,7.0,4.0,0.429,0.667
+F055,Tomatoes,Lunch,10.8,Room Temp,85.5,74.7,0.126,0.0
+F048,Chicken Breast,Lunch,3.7,Frozen,720.0,716.3,0.005,0.0
+F029,Shahi Paneer,Lunch,2.9,Room Temp,4.5,1.6,0.644,0.867
+F004,Upma,Dinner,4.3,Room Temp,8.0,3.7,0.537,0.692
+F022,Mutton Kothu Parotta,Lunch,2.1,Room Temp,4.0,1.9,0.525,0.842
+F034,Butter Chicken,Dinner,3.6,Refrigerated,50.0,46.4,0.072,0.0
+F007,Uttapam,Lunch,6.4,Refrigerated,71.0,64.6,0.09,0.0
+F048,Chicken Breast,Lunch,4.6,Frozen,720.0,715.4,0.006,0.0
+F035,Rogan Josh (Mutton),Dinner,3.4,Room Temp,5.0,1.6,0.68,0.867
+F006,Pongal,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F065,Curd/Yogurt,Dinner,5.5,Refrigerated,56.0,50.5,0.098,0.0
+F005,Vada (2 pcs),Lunch,7.6,Refrigerated,59.0,51.4,0.129,0.0
+F015,Chicken Chettinad,Lunch,2.2,Refrigerated,48.0,45.8,0.046,0.0
+F020,Egg Roast,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F010,Sambar Rice,Dinner,5.7,Refrigerated,70.0,64.3,0.081,0.0
+F038,Mutton Biryani (North Style),Dinner,12.6,Refrigerated,48.0,35.4,0.263,0.0
+F015,Chicken Chettinad,Lunch,2.6,Room Temp,3.6,1.0,0.722,0.917
+F008,Lemon Rice,Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F001,Idli (2 pcs),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F032,Naan,Dinner,6.0,Refrigerated,62.0,56.0,0.097,0.0
+F032,Naan,Dinner,5.6,Refrigerated,62.0,56.4,0.09,0.0
+F010,Sambar Rice,Lunch,4.6,Refrigerated,70.0,65.4,0.066,0.0
+F039,Keema Matar,Lunch,5.2,Room Temp,6.2,1.0,0.839,0.917
+F015,Chicken Chettinad,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F022,Mutton Kothu Parotta,Dinner,3.1,Room Temp,5.0,1.9,0.62,0.842
+F036,Tandoori Chicken (Half),Dinner,2.2,Refrigerated,63.0,60.8,0.035,0.0
+F001,Idli (2 pcs),Dinner,2.7,Refrigerated,62.0,59.3,0.044,0.0
+F029,Shahi Paneer,Lunch,3.3,Refrigerated,68.0,64.7,0.049,0.0
+F011,Avial,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F000,Plain Rice,Dinner,4.2,Refrigerated,72.0,67.8,0.058,0.0
+F037,Chicken Tikka Masala,Dinner,5.6,Refrigerated,56.0,50.4,0.1,0.0
+F016,Meen Kuzhambu (Fish Curry),Dinner,2.0,Room Temp,3.0,1.0,0.667,0.917
+F048,Chicken Breast,Dinner,0.5,Room Temp,1.0,0.5,0.5,0.958
+F002,Dosa (Plain),Lunch,3.7,Refrigerated,58.0,54.3,0.064,0.0
+F039,Keema Matar,Dinner,2.6,Room Temp,7.0,4.4,0.371,0.633
+F018,Mutton Sukka,Lunch,10.3,Refrigerated,72.0,61.7,0.143,0.0
+F007,Uttapam,Dinner,2.6,Room Temp,5.0,2.4,0.52,0.8
+F032,Naan,Dinner,5.0,Refrigerated,62.0,57.0,0.081,0.0
+F006,Pongal,Dinner,3.3,Room Temp,5.0,1.7,0.66,0.858
+F038,Mutton Biryani (North Style),Dinner,4.4,Refrigerated,48.0,43.6,0.092,0.0
+F030,Vegetable Biryani (North Style),Dinner,2.4,Room Temp,7.0,4.6,0.343,0.617
+F005,Vada (2 pcs),Dinner,3.8,Room Temp,6.0,2.2,0.633,0.817
+F011,Avial,Dinner,5.3,Refrigerated,68.0,62.7,0.078,0.0
+F036,Tandoori Chicken (Half),Lunch,3.2,Refrigerated,63.0,59.8,0.051,0.0
+F001,Idli (2 pcs),Lunch,2.8,Room Temp,4.3,1.5,0.651,0.875
+F015,Chicken Chettinad,Dinner,5.6,Refrigerated,48.0,42.4,0.117,0.0
+F050,Fish Fillet,Dinner,6.3,Refrigerated,12.0,5.7,0.525,0.525
+F036,Tandoori Chicken (Half),Lunch,2.6,Room Temp,6.6,4.0,0.394,0.667
+F011,Avial,Dinner,3.7,Refrigerated,68.0,64.3,0.054,0.0
+F012,Vegetable Stew,Lunch,7.0,Refrigerated,70.0,63.0,0.1,0.0
+F030,Vegetable Biryani (North Style),Dinner,3.2,Refrigerated,57.0,53.8,0.056,0.0
+F036,Tandoori Chicken (Half),Lunch,5.3,Refrigerated,63.0,57.7,0.084,0.0
+F010,Sambar Rice,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F000,Plain Rice,Dinner,2.4,Refrigerated,72.0,69.6,0.033,0.0
+F019,Chicken Biryani (South Style),Lunch,2.2,Room Temp,4.9,2.7,0.449,0.775
+F013,Appam,Lunch,6.1,Room Temp,7.1,1.0,0.859,0.917
+F005,Vada (2 pcs),Dinner,4.8,Room Temp,6.0,1.2,0.8,0.9
+F065,Curd/Yogurt,Lunch,2.4,Room Temp,4.9,2.5,0.49,0.792
+F022,Mutton Kothu Parotta,Dinner,5.0,Refrigerated,63.0,58.0,0.079,0.0
+F031,Tandoori Roti (2 pcs),Dinner,7.2,Refrigerated,63.0,55.8,0.114,0.0
+F001,Idli (2 pcs),Dinner,5.0,Refrigerated,62.0,57.0,0.081,0.0
+F036,Tandoori Chicken (Half),Lunch,5.5,Refrigerated,63.0,57.5,0.087,0.0
+F035,Rogan Josh (Mutton),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F035,Rogan Josh (Mutton),Lunch,5.9,Refrigerated,55.0,49.1,0.107,0.0
+F030,Vegetable Biryani (North Style),Dinner,1.7,Refrigerated,57.0,55.3,0.03,0.0
+F017,Prawn Fry,Dinner,4.9,Room Temp,8.0,3.1,0.613,0.742
+F008,Lemon Rice,Dinner,13.5,Refrigerated,48.0,34.5,0.281,0.0
+F023,Paneer Butter Masala,Dinner,3.1,Refrigerated,67.0,63.9,0.046,0.0
+F032,Naan,Lunch,4.7,Room Temp,6.1,1.4,0.77,0.883
+F011,Avial,Lunch,6.0,Refrigerated,68.0,62.0,0.088,0.0
+F024,Dal Makhani,Dinner,7.1,Refrigerated,60.0,52.9,0.118,0.0
+F038,Mutton Biryani (North Style),Lunch,3.9,Refrigerated,48.0,44.1,0.081,0.0
+F004,Upma,Dinner,2.0,Refrigerated,58.0,56.0,0.034,0.0
+F055,Tomatoes,Lunch,3.8,Refrigerated,168.0,164.2,0.023,0.0
+F055,Tomatoes,Dinner,2.9,Room Temp,96.0,93.1,0.03,0.0
+F007,Uttapam,Lunch,5.2,Refrigerated,71.0,65.8,0.073,0.0
+F012,Vegetable Stew,Lunch,3.1,Refrigerated,70.0,66.9,0.044,0.0
+F012,Vegetable Stew,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F020,Egg Roast,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F030,Vegetable Biryani (North Style),Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F005,Vada (2 pcs),Dinner,4.4,Refrigerated,59.0,54.6,0.075,0.0
+F011,Avial,Lunch,6.5,Refrigerated,68.0,61.5,0.096,0.0
+F000,Plain Rice,Lunch,6.2,Room Temp,7.2,1.0,0.861,0.917
+F030,Vegetable Biryani (North Style),Lunch,7.4,Refrigerated,57.0,49.6,0.13,0.0
+F003,Masala Dosa,Lunch,2.7,Refrigerated,71.0,68.3,0.038,0.0
+F016,Meen Kuzhambu (Fish Curry),Dinner,6.0,Refrigerated,36.0,30.0,0.167,0.0
+F048,Chicken Breast,Lunch,0.5,Room Temp,0.9,0.4,0.556,0.967
+F032,Naan,Lunch,3.0,Room Temp,5.7,2.7,0.526,0.775
+F000,Plain Rice,Dinner,6.3,Refrigerated,72.0,65.7,0.087,0.0
+F022,Mutton Kothu Parotta,Lunch,1.4,Refrigerated,63.0,61.6,0.022,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F050,Fish Fillet,Lunch,0.5,Room Temp,0.4,0.0,1.0,1.0
+F019,Chicken Biryani (South Style),Dinner,7.2,Refrigerated,64.0,56.8,0.113,0.0
+F002,Dosa (Plain),Dinner,4.8,Refrigerated,58.0,53.2,0.083,0.0
+F003,Masala Dosa,Lunch,2.9,Room Temp,6.0,3.1,0.483,0.742
+F008,Lemon Rice,Lunch,3.5,Room Temp,5.6,2.1,0.625,0.825
+F038,Mutton Biryani (North Style),Lunch,5.7,Refrigerated,48.0,42.3,0.119,0.0
+F013,Appam,Lunch,4.9,Refrigerated,61.0,56.1,0.08,0.0
+F020,Egg Roast,Dinner,3.7,Room Temp,5.0,1.3,0.74,0.892
+F017,Prawn Fry,Lunch,4.0,Refrigerated,56.0,52.0,0.071,0.0
+F000,Plain Rice,Dinner,4.3,Room Temp,8.0,3.7,0.537,0.692
+F066,Milk,Dinner,10.7,Refrigerated,71.0,60.3,0.151,0.0
+F035,Rogan Josh (Mutton),Dinner,4.5,Refrigerated,55.0,50.5,0.082,0.0
+F040,Chicken Curry (Punjabi Style),Lunch,3.0,Refrigerated,50.0,47.0,0.06,0.0
+F008,Lemon Rice,Dinner,3.6,Room Temp,7.0,3.4,0.514,0.717
+F001,Idli (2 pcs),Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F036,Tandoori Chicken (Half),Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F037,Chicken Tikka Masala,Lunch,1.9,Room Temp,5.7,3.8,0.333,0.683
+F039,Keema Matar,Lunch,2.1,Refrigerated,65.0,62.9,0.032,0.0
+F021,Fish Fry,Dinner,3.3,Refrigerated,68.0,64.7,0.049,0.0
+F037,Chicken Tikka Masala,Lunch,4.6,Room Temp,5.6,1.0,0.821,0.917
+F035,Rogan Josh (Mutton),Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F033,Mix Vegetable Curry,Lunch,5.0,Room Temp,6.0,1.0,0.833,0.917
+F020,Egg Roast,Lunch,4.5,Refrigerated,72.0,67.5,0.062,0.0
+F017,Prawn Fry,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F039,Keema Matar,Lunch,6.6,Refrigerated,65.0,58.4,0.102,0.0
+F055,Tomatoes,Lunch,5.0,Room Temp,86.3,81.3,0.058,0.0
+F037,Chicken Tikka Masala,Lunch,1.0,Room Temp,5.7,4.7,0.175,0.608
+F029,Shahi Paneer,Dinner,4.7,Refrigerated,68.0,63.3,0.069,0.0
+F037,Chicken Tikka Masala,Lunch,6.9,Refrigerated,56.0,49.1,0.123,0.0
+F031,Tandoori Roti (2 pcs),Lunch,7.7,Refrigerated,63.0,55.3,0.122,0.0
+F022,Mutton Kothu Parotta,Dinner,3.4,Room Temp,5.0,1.6,0.68,0.867
+F031,Tandoori Roti (2 pcs),Lunch,3.5,Room Temp,7.2,3.7,0.486,0.692
+F009,Curd Rice,Lunch,3.9,Refrigerated,67.0,63.1,0.058,0.0
+F035,Rogan Josh (Mutton),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F040,Chicken Curry (Punjabi Style),Lunch,5.2,Refrigerated,50.0,44.8,0.104,0.0
+F060,Spinach,Dinner,5.6,Refrigerated,72.0,66.4,0.078,0.0
+F035,Rogan Josh (Mutton),Lunch,2.8,Room Temp,4.2,1.4,0.667,0.883
+F035,Rogan Josh (Mutton),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F055,Tomatoes,Lunch,5.5,Refrigerated,168.0,162.5,0.033,0.0
+F035,Rogan Josh (Mutton),Dinner,3.3,Room Temp,5.0,1.7,0.66,0.858
+F000,Plain Rice,Dinner,6.3,Room Temp,8.0,1.7,0.787,0.858
+F017,Prawn Fry,Lunch,3.7,Room Temp,6.9,3.2,0.536,0.733
+F048,Chicken Breast,Lunch,3.4,Frozen,720.0,716.6,0.005,0.0
+F021,Fish Fry,Lunch,3.2,Room Temp,7.1,3.9,0.451,0.675
+F000,Plain Rice,Lunch,6.1,Room Temp,7.1,1.0,0.859,0.917
+F032,Naan,Dinner,1.3,Room Temp,7.0,5.7,0.186,0.525
+F017,Prawn Fry,Lunch,2.0,Refrigerated,56.0,54.0,0.036,0.0
+F055,Tomatoes,Dinner,3.7,Refrigerated,168.0,164.3,0.022,0.0
+F017,Prawn Fry,Lunch,6.0,Room Temp,7.0,1.0,0.857,0.917
+F001,Idli (2 pcs),Dinner,3.1,Room Temp,5.0,1.9,0.62,0.842
+F015,Chicken Chettinad,Lunch,3.8,Refrigerated,48.0,44.2,0.079,0.0
+F066,Milk,Lunch,4.6,Refrigerated,71.0,66.4,0.065,0.0
+F015,Chicken Chettinad,Dinner,4.7,Refrigerated,48.0,43.3,0.098,0.0
+F011,Avial,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F019,Chicken Biryani (South Style),Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F012,Vegetable Stew,Dinner,4.5,Room Temp,8.0,3.5,0.562,0.708
+F014,Medu Vada,Dinner,5.1,Refrigerated,65.0,59.9,0.078,0.0
+F007,Uttapam,Dinner,7.1,Refrigerated,71.0,63.9,0.1,0.0
+F004,Upma,Lunch,5.8,Room Temp,6.8,1.0,0.853,0.917
+F022,Mutton Kothu Parotta,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F021,Fish Fry,Lunch,5.6,Room Temp,6.6,1.0,0.848,0.917
+F034,Butter Chicken,Lunch,1.7,Room Temp,3.4,1.7,0.5,0.858
+F040,Chicken Curry (Punjabi Style),Dinner,7.3,Refrigerated,50.0,42.7,0.146,0.0
+F006,Pongal,Dinner,7.7,Refrigerated,52.0,44.3,0.148,0.0
+F001,Idli (2 pcs),Dinner,5.5,Refrigerated,62.0,56.5,0.089,0.0
+F033,Mix Vegetable Curry,Lunch,1.9,Refrigerated,58.0,56.1,0.033,0.0
+F010,Sambar Rice,Dinner,4.7,Refrigerated,70.0,65.3,0.067,0.0
+F027,Rajma Chawal,Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F016,Meen Kuzhambu (Fish Curry),Lunch,3.9,Refrigerated,36.0,32.1,0.108,0.0
+F036,Tandoori Chicken (Half),Lunch,1.9,Refrigerated,63.0,61.1,0.03,0.0
+F066,Milk,Dinner,8.2,Refrigerated,71.0,62.8,0.115,0.0
+F013,Appam,Dinner,5.6,Refrigerated,61.0,55.4,0.092,0.0
+F035,Rogan Josh (Mutton),Lunch,9.4,Refrigerated,55.0,45.6,0.171,0.0
+F030,Vegetable Biryani (North Style),Lunch,4.7,Room Temp,5.7,1.0,0.825,0.917
+F050,Fish Fillet,Dinner,5.1,Frozen,360.0,354.9,0.014,0.0
+F024,Dal Makhani,Dinner,3.7,Refrigerated,60.0,56.3,0.062,0.0
+F022,Mutton Kothu Parotta,Dinner,7.1,Refrigerated,63.0,55.9,0.113,0.0
+F019,Chicken Biryani (South Style),Lunch,4.1,Room Temp,5.1,1.0,0.804,0.917
+F025,Chana Masala,Lunch,6.0,Refrigerated,57.0,51.0,0.105,0.0
+F050,Fish Fillet,Lunch,6.5,Frozen,360.0,353.5,0.018,0.0
+F014,Medu Vada,Lunch,2.6,Refrigerated,65.0,62.4,0.04,0.0
+F010,Sambar Rice,Dinner,3.3,Room Temp,5.0,1.7,0.66,0.858
+F014,Medu Vada,Lunch,3.1,Refrigerated,65.0,61.9,0.048,0.0
+F024,Dal Makhani,Lunch,2.7,Room Temp,5.3,2.6,0.509,0.783
+F037,Chicken Tikka Masala,Dinner,2.8,Refrigerated,56.0,53.2,0.05,0.0
+F065,Curd/Yogurt,Lunch,3.1,Refrigerated,56.0,52.9,0.055,0.0
+F055,Tomatoes,Lunch,5.5,Room Temp,79.0,73.5,0.07,0.0
+F036,Tandoori Chicken (Half),Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F060,Spinach,Lunch,3.5,Room Temp,42.5,39.0,0.082,0.0
+F027,Rajma Chawal,Dinner,4.1,Refrigerated,53.0,48.9,0.077,0.0
+F012,Vegetable Stew,Dinner,2.2,Refrigerated,70.0,67.8,0.031,0.0
+F060,Spinach,Lunch,5.9,Room Temp,40.6,34.7,0.145,0.0
+F002,Dosa (Plain),Dinner,8.7,Refrigerated,58.0,49.3,0.15,0.0
+F006,Pongal,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F000,Plain Rice,Lunch,4.2,Room Temp,6.5,2.3,0.646,0.808
+F036,Tandoori Chicken (Half),Lunch,5.1,Room Temp,7.2,2.1,0.708,0.825
+F017,Prawn Fry,Dinner,5.7,Room Temp,8.0,2.3,0.713,0.808
+F040,Chicken Curry (Punjabi Style),Dinner,10.4,Refrigerated,50.0,39.6,0.208,0.0
+F014,Medu Vada,Lunch,3.7,Refrigerated,65.0,61.3,0.057,0.0
+F055,Tomatoes,Dinner,5.6,Refrigerated,168.0,162.4,0.033,0.0
+F066,Milk,Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F004,Upma,Dinner,1.6,Refrigerated,58.0,56.4,0.028,0.0
+F023,Paneer Butter Masala,Lunch,4.3,Room Temp,6.8,2.5,0.632,0.792
+F014,Medu Vada,Lunch,3.2,Room Temp,7.1,3.9,0.451,0.675
+F005,Vada (2 pcs),Lunch,6.0,Refrigerated,59.0,53.0,0.102,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,11.2,Refrigerated,50.0,38.8,0.224,0.0
+F002,Dosa (Plain),Lunch,2.6,Refrigerated,58.0,55.4,0.045,0.0
+F008,Lemon Rice,Lunch,10.4,Refrigerated,48.0,37.6,0.217,0.0
+F024,Dal Makhani,Lunch,9.9,Refrigerated,60.0,50.1,0.165,0.0
+F025,Chana Masala,Dinner,2.6,Room Temp,5.0,2.4,0.52,0.8
+F004,Upma,Dinner,3.5,Refrigerated,58.0,54.5,0.06,0.0
+F028,Palak Paneer,Dinner,7.8,Refrigerated,71.0,63.2,0.11,0.0
+F003,Masala Dosa,Lunch,2.6,Refrigerated,71.0,68.4,0.037,0.0
+F010,Sambar Rice,Lunch,3.9,Refrigerated,70.0,66.1,0.056,0.0
+F040,Chicken Curry (Punjabi Style),Lunch,3.6,Refrigerated,50.0,46.4,0.072,0.0
+F029,Shahi Paneer,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F065,Curd/Yogurt,Lunch,6.7,Refrigerated,56.0,49.3,0.12,0.0
+F035,Rogan Josh (Mutton),Dinner,3.9,Refrigerated,55.0,51.1,0.071,0.0
+F009,Curd Rice,Lunch,4.4,Room Temp,7.0,2.6,0.629,0.783
+F011,Avial,Dinner,1.0,Refrigerated,68.0,67.0,0.015,0.0
+F026,Aloo Gobi,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F008,Lemon Rice,Lunch,4.8,Room Temp,5.8,1.0,0.828,0.917
+F013,Appam,Lunch,2.1,Refrigerated,61.0,58.9,0.034,0.0
+F038,Mutton Biryani (North Style),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F019,Chicken Biryani (South Style),Lunch,4.1,Room Temp,5.1,1.0,0.804,0.917
+F002,Dosa (Plain),Dinner,3.2,Room Temp,7.0,3.8,0.457,0.683
+F026,Aloo Gobi,Dinner,1.6,Refrigerated,63.0,61.4,0.025,0.0
+F017,Prawn Fry,Lunch,4.2,Refrigerated,56.0,51.8,0.075,0.0
+F028,Palak Paneer,Lunch,2.9,Room Temp,6.7,3.8,0.433,0.683
+F010,Sambar Rice,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F027,Rajma Chawal,Lunch,3.9,Room Temp,4.9,1.0,0.796,0.917
+F029,Shahi Paneer,Dinner,4.6,Refrigerated,68.0,63.4,0.068,0.0
+F060,Spinach,Dinner,2.7,Room Temp,48.0,45.3,0.056,0.0
+F035,Rogan Josh (Mutton),Dinner,2.5,Room Temp,5.0,2.5,0.5,0.792
+F032,Naan,Dinner,6.6,Refrigerated,62.0,55.4,0.106,0.0
+F050,Fish Fillet,Dinner,4.6,Frozen,360.0,355.4,0.013,0.0
+F008,Lemon Rice,Lunch,4.7,Room Temp,5.7,1.0,0.825,0.917
+F000,Plain Rice,Lunch,2.7,Refrigerated,72.0,69.3,0.038,0.0
+F019,Chicken Biryani (South Style),Lunch,2.1,Refrigerated,64.0,61.9,0.033,0.0
+F007,Uttapam,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F023,Paneer Butter Masala,Dinner,3.0,Room Temp,8.0,5.0,0.375,0.583
+F040,Chicken Curry (Punjabi Style),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F024,Dal Makhani,Lunch,10.3,Refrigerated,60.0,49.7,0.172,0.0
+F065,Curd/Yogurt,Dinner,2.4,Room Temp,6.0,3.6,0.4,0.7
+F030,Vegetable Biryani (North Style),Dinner,6.0,Refrigerated,57.0,51.0,0.105,0.0
+F030,Vegetable Biryani (North Style),Lunch,10.6,Refrigerated,57.0,46.4,0.186,0.0
+F026,Aloo Gobi,Lunch,4.0,Refrigerated,63.0,59.0,0.063,0.0
+F018,Mutton Sukka,Lunch,5.0,Refrigerated,72.0,67.0,0.069,0.0
+F017,Prawn Fry,Dinner,4.5,Refrigerated,56.0,51.5,0.08,0.0
+F004,Upma,Lunch,3.9,Room Temp,6.5,2.6,0.6,0.783
+F011,Avial,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F016,Meen Kuzhambu (Fish Curry),Dinner,2.0,Room Temp,3.0,1.0,0.667,0.917
+F050,Fish Fillet,Lunch,0.5,Room Temp,0.4,0.0,1.0,1.0
+F024,Dal Makhani,Dinner,3.3,Refrigerated,60.0,56.7,0.055,0.0
+F034,Butter Chicken,Lunch,3.5,Refrigerated,50.0,46.5,0.07,0.0
+F004,Upma,Lunch,3.0,Refrigerated,58.0,55.0,0.052,0.0
+F011,Avial,Lunch,5.1,Refrigerated,68.0,62.9,0.075,0.0
+F019,Chicken Biryani (South Style),Lunch,3.1,Room Temp,5.3,2.2,0.585,0.817
+F026,Aloo Gobi,Dinner,3.8,Refrigerated,63.0,59.2,0.06,0.0
+F048,Chicken Breast,Lunch,3.6,Frozen,720.0,716.4,0.005,0.0
+F012,Vegetable Stew,Lunch,6.2,Refrigerated,70.0,63.8,0.089,0.0
+F022,Mutton Kothu Parotta,Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F012,Vegetable Stew,Lunch,2.7,Refrigerated,70.0,67.3,0.039,0.0
+F004,Upma,Dinner,7.6,Refrigerated,58.0,50.4,0.131,0.0
+F022,Mutton Kothu Parotta,Dinner,3.4,Refrigerated,63.0,59.6,0.054,0.0
+F024,Dal Makhani,Dinner,6.4,Refrigerated,60.0,53.6,0.107,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,1.3,Room Temp,5.0,3.7,0.26,0.692
+F031,Tandoori Roti (2 pcs),Lunch,5.0,Room Temp,6.9,1.9,0.725,0.842
+F001,Idli (2 pcs),Dinner,3.1,Refrigerated,62.0,58.9,0.05,0.0
+F021,Fish Fry,Lunch,2.8,Room Temp,6.8,4.0,0.412,0.667
+F007,Uttapam,Lunch,1.3,Room Temp,4.3,3.0,0.302,0.75
+F030,Vegetable Biryani (North Style),Lunch,4.7,Refrigerated,57.0,52.3,0.082,0.0
+F037,Chicken Tikka Masala,Lunch,4.6,Room Temp,5.6,1.0,0.821,0.917
+F003,Masala Dosa,Dinner,8.6,Refrigerated,71.0,62.4,0.121,0.0
+F018,Mutton Sukka,Lunch,6.4,Refrigerated,72.0,65.6,0.089,0.0
+F048,Chicken Breast,Lunch,0.5,Room Temp,0.9,0.4,0.556,0.967
+F025,Chana Masala,Dinner,4.1,Refrigerated,57.0,52.9,0.072,0.0
+F013,Appam,Lunch,2.8,Room Temp,6.5,3.7,0.431,0.692
+F027,Rajma Chawal,Dinner,4.9,Room Temp,6.0,1.1,0.817,0.908
+F040,Chicken Curry (Punjabi Style),Lunch,3.0,Room Temp,4.0,1.0,0.75,0.917
+F025,Chana Masala,Lunch,3.1,Refrigerated,57.0,53.9,0.054,0.0
+F011,Avial,Lunch,3.2,Refrigerated,68.0,64.8,0.047,0.0
+F031,Tandoori Roti (2 pcs),Lunch,11.4,Refrigerated,63.0,51.6,0.181,0.0
+F031,Tandoori Roti (2 pcs),Dinner,4.4,Room Temp,8.0,3.6,0.55,0.7
+F032,Naan,Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F001,Idli (2 pcs),Lunch,2.6,Room Temp,4.1,1.5,0.634,0.875
+F036,Tandoori Chicken (Half),Dinner,2.2,Refrigerated,63.0,60.8,0.035,0.0
+F048,Chicken Breast,Dinner,0.5,Room Temp,1.0,0.5,0.5,0.958
+F002,Dosa (Plain),Dinner,5.7,Refrigerated,58.0,52.3,0.098,0.0
+F002,Dosa (Plain),Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F000,Plain Rice,Lunch,3.5,Room Temp,6.4,2.9,0.547,0.758
+F000,Plain Rice,Lunch,4.5,Refrigerated,72.0,67.5,0.062,0.0
+F009,Curd Rice,Lunch,3.2,Room Temp,6.4,3.2,0.5,0.733
+F031,Tandoori Roti (2 pcs),Lunch,5.5,Refrigerated,63.0,57.5,0.087,0.0
+F011,Avial,Dinner,2.9,Refrigerated,68.0,65.1,0.043,0.0
+F038,Mutton Biryani (North Style),Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F060,Spinach,Lunch,2.0,Refrigerated,72.0,70.0,0.028,0.0
+F022,Mutton Kothu Parotta,Lunch,3.9,Refrigerated,63.0,59.1,0.062,0.0
+F039,Keema Matar,Dinner,3.8,Refrigerated,65.0,61.2,0.058,0.0
+F060,Spinach,Lunch,4.5,Room Temp,39.8,35.3,0.113,0.0
+F048,Chicken Breast,Lunch,0.5,Room Temp,0.9,0.4,0.556,0.967
+F012,Vegetable Stew,Lunch,3.8,Room Temp,7.1,3.3,0.535,0.725
+F031,Tandoori Roti (2 pcs),Lunch,1.3,Refrigerated,63.0,61.7,0.021,0.0
+F039,Keema Matar,Dinner,4.0,Room Temp,7.0,3.0,0.571,0.75
+F016,Meen Kuzhambu (Fish Curry),Dinner,6.4,Refrigerated,36.0,29.6,0.178,0.0
+F027,Rajma Chawal,Lunch,8.1,Refrigerated,53.0,44.9,0.153,0.0
+F009,Curd Rice,Lunch,5.5,Room Temp,6.8,1.3,0.809,0.892
+F038,Mutton Biryani (North Style),Lunch,3.0,Room Temp,4.3,1.3,0.698,0.892
+F024,Dal Makhani,Lunch,3.3,Refrigerated,60.0,56.7,0.055,0.0
+F017,Prawn Fry,Dinner,4.0,Refrigerated,56.0,52.0,0.071,0.0
+F030,Vegetable Biryani (North Style),Lunch,1.6,Refrigerated,57.0,55.4,0.028,0.0
+F028,Palak Paneer,Lunch,6.1,Room Temp,7.1,1.0,0.859,0.917
+F014,Medu Vada,Dinner,1.4,Room Temp,8.0,6.6,0.175,0.45
+F017,Prawn Fry,Lunch,12.4,Refrigerated,56.0,43.6,0.221,0.0
+F048,Chicken Breast,Lunch,0.5,Room Temp,0.8,0.3,0.625,0.975
+F019,Chicken Biryani (South Style),Dinner,4.3,Refrigerated,64.0,59.7,0.067,0.0
+F010,Sambar Rice,Dinner,3.9,Refrigerated,70.0,66.1,0.056,0.0
+F002,Dosa (Plain),Lunch,3.3,Room Temp,6.0,2.7,0.55,0.775
+F035,Rogan Josh (Mutton),Dinner,4.7,Refrigerated,55.0,50.3,0.085,0.0
+F018,Mutton Sukka,Lunch,4.0,Room Temp,5.0,1.0,0.8,0.917
+F000,Plain Rice,Dinner,4.6,Refrigerated,72.0,67.4,0.064,0.0
+F003,Masala Dosa,Lunch,4.2,Room Temp,5.7,1.5,0.737,0.875
+F002,Dosa (Plain),Lunch,3.3,Refrigerated,58.0,54.7,0.057,0.0
+F008,Lemon Rice,Lunch,2.0,Refrigerated,48.0,46.0,0.042,0.0
+F008,Lemon Rice,Dinner,2.3,Refrigerated,48.0,45.7,0.048,0.0
+F038,Mutton Biryani (North Style),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F003,Masala Dosa,Dinner,6.9,Refrigerated,71.0,64.1,0.097,0.0
+F025,Chana Masala,Lunch,3.4,Refrigerated,57.0,53.6,0.06,0.0
+F032,Naan,Dinner,3.9,Room Temp,7.0,3.1,0.557,0.742
+F050,Fish Fillet,Dinner,6.3,Frozen,360.0,353.7,0.018,0.0
+F022,Mutton Kothu Parotta,Dinner,2.7,Room Temp,5.0,2.3,0.54,0.808
+F055,Tomatoes,Lunch,5.4,Refrigerated,168.0,162.6,0.032,0.0
+F033,Mix Vegetable Curry,Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F012,Vegetable Stew,Dinner,2.3,Refrigerated,70.0,67.7,0.033,0.0
+F028,Palak Paneer,Lunch,3.5,Room Temp,7.1,3.6,0.493,0.7
+F017,Prawn Fry,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F010,Sambar Rice,Dinner,3.0,Refrigerated,70.0,67.0,0.043,0.0
+F025,Chana Masala,Dinner,3.8,Refrigerated,57.0,53.2,0.067,0.0
+F036,Tandoori Chicken (Half),Lunch,4.1,Room Temp,6.6,2.5,0.621,0.792
+F030,Vegetable Biryani (North Style),Lunch,2.7,Room Temp,5.8,3.1,0.466,0.742
+F015,Chicken Chettinad,Dinner,3.0,Room Temp,4.0,1.0,0.75,0.917
+F001,Idli (2 pcs),Dinner,2.5,Room Temp,5.0,2.5,0.5,0.792
+F025,Chana Masala,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F025,Chana Masala,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F031,Tandoori Roti (2 pcs),Lunch,5.7,Room Temp,6.7,1.0,0.851,0.917
+F000,Plain Rice,Dinner,4.4,Refrigerated,72.0,67.6,0.061,0.0
+F024,Dal Makhani,Dinner,6.4,Refrigerated,60.0,53.6,0.107,0.0
+F014,Medu Vada,Lunch,4.8,Room Temp,6.9,2.1,0.696,0.825
+F037,Chicken Tikka Masala,Lunch,5.0,Room Temp,6.0,1.0,0.833,0.917
+F040,Chicken Curry (Punjabi Style),Lunch,3.6,Refrigerated,50.0,46.4,0.072,0.0
+F029,Shahi Paneer,Dinner,3.3,Refrigerated,68.0,64.7,0.049,0.0
+F012,Vegetable Stew,Lunch,4.3,Refrigerated,70.0,65.7,0.061,0.0
+F066,Milk,Dinner,2.5,Refrigerated,71.0,68.5,0.035,0.0
+F031,Tandoori Roti (2 pcs),Lunch,5.7,Room Temp,6.7,1.0,0.851,0.917
+F021,Fish Fry,Lunch,4.4,Refrigerated,68.0,63.6,0.065,0.0
+F003,Masala Dosa,Lunch,3.5,Refrigerated,71.0,67.5,0.049,0.0
+F018,Mutton Sukka,Dinner,2.7,Refrigerated,72.0,69.3,0.038,0.0
+F004,Upma,Lunch,4.1,Refrigerated,58.0,53.9,0.071,0.0
+F022,Mutton Kothu Parotta,Dinner,5.4,Refrigerated,63.0,57.6,0.086,0.0
+F066,Milk,Dinner,3.9,Room Temp,5.0,1.1,0.78,0.908
+F011,Avial,Lunch,3.8,Refrigerated,68.0,64.2,0.056,0.0
+F032,Naan,Lunch,5.0,Room Temp,6.0,1.0,0.833,0.917
+F066,Milk,Dinner,5.5,Refrigerated,71.0,65.5,0.077,0.0
+F023,Paneer Butter Masala,Lunch,3.0,Refrigerated,67.0,64.0,0.045,0.0
+F033,Mix Vegetable Curry,Dinner,3.0,Refrigerated,58.0,55.0,0.052,0.0
+F016,Meen Kuzhambu (Fish Curry),Dinner,2.0,Room Temp,3.0,1.0,0.667,0.917
+F001,Idli (2 pcs),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F037,Chicken Tikka Masala,Lunch,2.5,Room Temp,6.0,3.5,0.417,0.708
+F013,Appam,Dinner,12.1,Refrigerated,61.0,48.9,0.198,0.0
+F000,Plain Rice,Lunch,2.1,Room Temp,7.0,4.9,0.3,0.592
+F060,Spinach,Dinner,6.6,Room Temp,48.0,41.4,0.138,0.0
+F040,Chicken Curry (Punjabi Style),Dinner,2.8,Refrigerated,50.0,47.2,0.056,0.0
+F029,Shahi Paneer,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F036,Tandoori Chicken (Half),Lunch,2.8,Refrigerated,63.0,60.2,0.044,0.0
+F027,Rajma Chawal,Dinner,1.5,Room Temp,6.0,4.5,0.25,0.625
+F033,Mix Vegetable Curry,Dinner,2.3,Room Temp,7.0,4.7,0.329,0.608
+F028,Palak Paneer,Dinner,4.5,Room Temp,8.0,3.5,0.562,0.708
+F048,Chicken Breast,Lunch,8.4,Frozen,720.0,711.6,0.012,0.0
+F060,Spinach,Dinner,4.2,Refrigerated,72.0,67.8,0.058,0.0
+F010,Sambar Rice,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F027,Rajma Chawal,Lunch,6.0,Refrigerated,53.0,47.0,0.113,0.0
+F027,Rajma Chawal,Lunch,4.2,Room Temp,5.2,1.0,0.808,0.917
+F023,Paneer Butter Masala,Dinner,7.0,Room Temp,8.0,1.0,0.875,0.917
+F050,Fish Fillet,Lunch,4.5,Refrigerated,12.0,7.5,0.375,0.375
+F011,Avial,Lunch,2.2,Room Temp,4.3,2.1,0.512,0.825
+F020,Egg Roast,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F031,Tandoori Roti (2 pcs),Lunch,8.2,Refrigerated,63.0,54.8,0.13,0.0
+F025,Chana Masala,Dinner,1.8,Room Temp,5.0,3.2,0.36,0.733
+F018,Mutton Sukka,Dinner,4.3,Refrigerated,72.0,67.7,0.06,0.0
+F026,Aloo Gobi,Lunch,4.2,Refrigerated,63.0,58.8,0.067,0.0
+F065,Curd/Yogurt,Lunch,4.2,Room Temp,5.2,1.0,0.808,0.917
+F023,Paneer Butter Masala,Dinner,8.7,Refrigerated,67.0,58.3,0.13,0.0
+F055,Tomatoes,Dinner,3.8,Refrigerated,168.0,164.2,0.023,0.0
+F007,Uttapam,Dinner,3.1,Room Temp,5.0,1.9,0.62,0.842
+F011,Avial,Lunch,3.2,Room Temp,4.2,1.0,0.762,0.917
+F018,Mutton Sukka,Lunch,5.5,Refrigerated,72.0,66.5,0.076,0.0
+F008,Lemon Rice,Lunch,3.3,Refrigerated,48.0,44.7,0.069,0.0
+F025,Chana Masala,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F032,Naan,Lunch,6.1,Refrigerated,62.0,55.9,0.098,0.0
+F029,Shahi Paneer,Dinner,1.7,Refrigerated,68.0,66.3,0.025,0.0
+F027,Rajma Chawal,Dinner,5.2,Refrigerated,53.0,47.8,0.098,0.0
+F026,Aloo Gobi,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F011,Avial,Lunch,2.7,Room Temp,4.1,1.4,0.659,0.883
+F050,Fish Fillet,Lunch,2.0,Refrigerated,12.0,10.0,0.167,0.167
+F012,Vegetable Stew,Lunch,4.8,Refrigerated,70.0,65.2,0.069,0.0
+F017,Prawn Fry,Lunch,5.7,Room Temp,6.7,1.0,0.851,0.917
+F014,Medu Vada,Dinner,3.8,Refrigerated,65.0,61.2,0.058,0.0
+F055,Tomatoes,Lunch,7.2,Room Temp,85.9,78.7,0.084,0.0
+F015,Chicken Chettinad,Lunch,2.5,Room Temp,3.5,1.0,0.714,0.917
+F022,Mutton Kothu Parotta,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F022,Mutton Kothu Parotta,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F035,Rogan Josh (Mutton),Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F007,Uttapam,Dinner,3.6,Room Temp,5.0,1.4,0.72,0.883
+F006,Pongal,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F050,Fish Fillet,Dinner,5.3,Frozen,360.0,354.7,0.015,0.0
+F036,Tandoori Chicken (Half),Dinner,5.6,Refrigerated,63.0,57.4,0.089,0.0
+F019,Chicken Biryani (South Style),Dinner,5.0,Room Temp,6.0,1.0,0.833,0.917
+F021,Fish Fry,Lunch,3.1,Refrigerated,68.0,64.9,0.046,0.0
+F002,Dosa (Plain),Lunch,4.5,Refrigerated,58.0,53.5,0.078,0.0
+F027,Rajma Chawal,Dinner,9.8,Refrigerated,53.0,43.2,0.185,0.0
+F003,Masala Dosa,Dinner,4.5,Refrigerated,71.0,66.5,0.063,0.0
+F032,Naan,Dinner,5.2,Refrigerated,62.0,56.8,0.084,0.0
+F025,Chana Masala,Lunch,3.1,Room Temp,4.3,1.2,0.721,0.9
+F048,Chicken Breast,Lunch,13.4,Refrigerated,24.0,10.6,0.558,0.117
+F032,Naan,Dinner,6.0,Room Temp,7.0,1.0,0.857,0.917
+F023,Paneer Butter Masala,Dinner,4.0,Refrigerated,67.0,63.0,0.06,0.0
+F021,Fish Fry,Dinner,3.1,Room Temp,8.0,4.9,0.387,0.592
+F033,Mix Vegetable Curry,Dinner,1.1,Room Temp,7.0,5.9,0.157,0.508
+F004,Upma,Lunch,5.3,Room Temp,6.7,1.4,0.791,0.883
+F002,Dosa (Plain),Lunch,4.7,Room Temp,5.7,1.0,0.825,0.917
+F048,Chicken Breast,Dinner,0.5,Room Temp,1.0,0.5,0.5,0.958
+F032,Naan,Dinner,8.8,Refrigerated,62.0,53.2,0.142,0.0
+F032,Naan,Dinner,2.1,Room Temp,7.0,4.9,0.3,0.592
+F001,Idli (2 pcs),Lunch,3.3,Room Temp,4.3,1.0,0.767,0.917
+F050,Fish Fillet,Lunch,3.6,Refrigerated,12.0,8.4,0.3,0.3
+F006,Pongal,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F040,Chicken Curry (Punjabi Style),Dinner,3.1,Refrigerated,50.0,46.9,0.062,0.0
+F009,Curd Rice,Dinner,3.0,Refrigerated,67.0,64.0,0.045,0.0
+F028,Palak Paneer,Lunch,5.8,Refrigerated,71.0,65.2,0.082,0.0
+F032,Naan,Lunch,4.2,Room Temp,5.8,1.6,0.724,0.867
+F037,Chicken Tikka Masala,Lunch,5.2,Room Temp,6.2,1.0,0.839,0.917
+F002,Dosa (Plain),Lunch,4.2,Refrigerated,58.0,53.8,0.072,0.0
+F014,Medu Vada,Lunch,9.3,Refrigerated,65.0,55.7,0.143,0.0
+F018,Mutton Sukka,Lunch,7.1,Refrigerated,72.0,64.9,0.099,0.0
+F000,Plain Rice,Dinner,4.3,Room Temp,8.0,3.7,0.537,0.692
+F017,Prawn Fry,Dinner,4.0,Refrigerated,56.0,52.0,0.071,0.0
+F006,Pongal,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F007,Uttapam,Lunch,3.4,Refrigerated,71.0,67.6,0.048,0.0
+F026,Aloo Gobi,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F031,Tandoori Roti (2 pcs),Dinner,3.4,Refrigerated,63.0,59.6,0.054,0.0
+F026,Aloo Gobi,Dinner,3.7,Room Temp,5.0,1.3,0.74,0.892
+F001,Idli (2 pcs),Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F037,Chicken Tikka Masala,Dinner,10.7,Refrigerated,56.0,45.3,0.191,0.0
+F040,Chicken Curry (Punjabi Style),Lunch,3.4,Room Temp,4.4,1.0,0.773,0.917
+F032,Naan,Lunch,3.9,Refrigerated,62.0,58.1,0.063,0.0
+F015,Chicken Chettinad,Lunch,4.0,Refrigerated,48.0,44.0,0.083,0.0
+F028,Palak Paneer,Dinner,2.3,Room Temp,8.0,5.7,0.287,0.525
+F009,Curd Rice,Dinner,6.3,Refrigerated,67.0,60.7,0.094,0.0
+F014,Medu Vada,Lunch,3.5,Refrigerated,65.0,61.5,0.054,0.0
+F019,Chicken Biryani (South Style),Lunch,5.6,Refrigerated,64.0,58.4,0.088,0.0
+F005,Vada (2 pcs),Lunch,4.2,Room Temp,5.2,1.0,0.808,0.917
+F027,Rajma Chawal,Lunch,4.8,Refrigerated,53.0,48.2,0.091,0.0
+F020,Egg Roast,Lunch,3.1,Room Temp,4.1,1.0,0.756,0.917
+F025,Chana Masala,Lunch,3.5,Room Temp,4.5,1.0,0.778,0.917
+F026,Aloo Gobi,Dinner,4.5,Refrigerated,63.0,58.5,0.071,0.0
+F007,Uttapam,Dinner,4.5,Refrigerated,71.0,66.5,0.063,0.0
+F048,Chicken Breast,Dinner,3.2,Frozen,720.0,716.8,0.004,0.0
+F022,Mutton Kothu Parotta,Dinner,5.8,Refrigerated,63.0,57.2,0.092,0.0
+F002,Dosa (Plain),Lunch,3.3,Refrigerated,58.0,54.7,0.057,0.0
+F025,Chana Masala,Lunch,5.7,Refrigerated,57.0,51.3,0.1,0.0
+F010,Sambar Rice,Lunch,2.2,Refrigerated,70.0,67.8,0.031,0.0
+F060,Spinach,Lunch,8.3,Refrigerated,72.0,63.7,0.115,0.0
+F028,Palak Paneer,Lunch,9.8,Refrigerated,71.0,61.2,0.138,0.0
+F035,Rogan Josh (Mutton),Lunch,6.5,Refrigerated,55.0,48.5,0.118,0.0
+F066,Milk,Dinner,4.0,Room Temp,5.0,1.0,0.8,0.917
+F027,Rajma Chawal,Dinner,5.1,Refrigerated,53.0,47.9,0.096,0.0
+F001,Idli (2 pcs),Dinner,3.4,Refrigerated,62.0,58.6,0.055,0.0
+F009,Curd Rice,Dinner,5.2,Room Temp,8.0,2.8,0.65,0.767
+F031,Tandoori Roti (2 pcs),Lunch,5.3,Room Temp,7.1,1.8,0.746,0.85
+F026,Aloo Gobi,Dinner,2.3,Refrigerated,63.0,60.7,0.037,0.0
+F028,Palak Paneer,Dinner,2.1,Refrigerated,71.0,68.9,0.03,0.0
+F016,Meen Kuzhambu (Fish Curry),Dinner,2.0,Room Temp,3.0,1.0,0.667,0.917
+F010,Sambar Rice,Lunch,3.0,Room Temp,4.0,1.0,0.75,0.917
+F027,Rajma Chawal,Dinner,3.3,Refrigerated,53.0,49.7,0.062,0.0
+F050,Fish Fillet,Dinner,4.8,Frozen,360.0,355.2,0.013,0.0
+F034,Butter Chicken,Lunch,3.2,Refrigerated,50.0,46.8,0.064,0.0
+F050,Fish Fillet,Lunch,0.5,Room Temp,0.4,0.0,1.0,1.0
+F004,Upma,Dinner,5.6,Refrigerated,58.0,52.4,0.097,0.0
+F010,Sambar Rice,Dinner,2.8,Room Temp,5.0,2.2,0.56,0.817
+F010,Sambar Rice,Dinner,2.2,Room Temp,5.0,2.8,0.44,0.767
+F004,Upma,Dinner,5.5,Room Temp,8.0,2.5,0.688,0.792
+F027,Rajma Chawal,Dinner,5.0,Refrigerated,53.0,48.0,0.094,0.0
+F020,Egg Roast,Dinner,2.6,Room Temp,5.0,2.4,0.52,0.8
+F032,Naan,Lunch,5.2,Room Temp,6.2,1.0,0.839,0.917
+F008,Lemon Rice,Lunch,5.6,Refrigerated,48.0,42.4,0.117,0.0
+F033,Mix Vegetable Curry,Dinner,5.7,Refrigerated,58.0,52.3,0.098,0.0
+F003,Masala Dosa,Dinner,2.1,Room Temp,7.0,4.9,0.3,0.592
+F023,Paneer Butter Masala,Dinner,3.9,Room Temp,8.0,4.1,0.488,0.658
+F022,Mutton Kothu Parotta,Lunch,4.9,Refrigerated,63.0,58.1,0.078,0.0

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "441636774631",
+    "firebase_url": "https://hackinfinity-56efd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hackinfinity-56efd",
+    "storage_bucket": "hackinfinity-56efd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441636774631:android:511480ccf64b0738f47842",
+        "android_client_info": {
+          "package_name": "com.platelink.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441636774631-android123platelink456app789.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platelink.app",
+            "certificate_hash": "SHA1_PLACEHOLDER"
+          }
+        },
+        {
+          "client_id": "441636774631-web123platelink456app789.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjFtG8kPvbEEj-syfvoJxV03EwL6PUjFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441636774631-web123platelink456app789.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "analytics_service": {
+          "status": 1
+        },
+        "firebase_auth_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
