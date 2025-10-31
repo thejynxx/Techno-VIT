@@ -1,0 +1,17 @@
+Open Terminal
+CLONE THE REPO
+USE NPM INSTALL
+Open 2 more terminals
+Run the commands: python surplus_prediction_api and python spoilage_prediction_api in separate terminals
+RUN NPX START EXPO COMMAND in another terminal
+Download Expo Go App in your phone and scan the Expo Scanner displayed on the terminal
+Dummy login creds:
+Canteen:
+  akashvp@gmail.com
+  Canteen123
+NGO:
+  tejas@gmail.com
+  Password123
+Driver:
+   tejasv@gmail.com
+   Driver123
